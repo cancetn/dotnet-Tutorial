@@ -1,0 +1,15 @@
+C:\Users\can.cetin\OneDrive - Logo\Masaüstü\pratikler\try_catch_finally_ve_mantiksal_hatalar\bin\Debug\net6.0\try_catch_finally_ve_mantiksal_hatalar.exe
+C:\Users\can.cetin\OneDrive - Logo\Masaüstü\pratikler\try_catch_finally_ve_mantiksal_hatalar\bin\Debug\net6.0\try_catch_finally_ve_mantiksal_hatalar.deps.json
+C:\Users\can.cetin\OneDrive - Logo\Masaüstü\pratikler\try_catch_finally_ve_mantiksal_hatalar\bin\Debug\net6.0\try_catch_finally_ve_mantiksal_hatalar.runtimeconfig.json
+C:\Users\can.cetin\OneDrive - Logo\Masaüstü\pratikler\try_catch_finally_ve_mantiksal_hatalar\bin\Debug\net6.0\try_catch_finally_ve_mantiksal_hatalar.dll
+C:\Users\can.cetin\OneDrive - Logo\Masaüstü\pratikler\try_catch_finally_ve_mantiksal_hatalar\bin\Debug\net6.0\try_catch_finally_ve_mantiksal_hatalar.pdb
+C:\Users\can.cetin\OneDrive - Logo\Masaüstü\pratikler\try_catch_finally_ve_mantiksal_hatalar\obj\Debug\net6.0\try_catch_finally_ve_mantiksal_hatalar.csproj.AssemblyReference.cache
+C:\Users\can.cetin\OneDrive - Logo\Masaüstü\pratikler\try_catch_finally_ve_mantiksal_hatalar\obj\Debug\net6.0\try_catch_finally_ve_mantiksal_hatalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\can.cetin\OneDrive - Logo\Masaüstü\pratikler\try_catch_finally_ve_mantiksal_hatalar\obj\Debug\net6.0\try_catch_finally_ve_mantiksal_hatalar.AssemblyInfoInputs.cache
+C:\Users\can.cetin\OneDrive - Logo\Masaüstü\pratikler\try_catch_finally_ve_mantiksal_hatalar\obj\Debug\net6.0\try_catch_finally_ve_mantiksal_hatalar.AssemblyInfo.cs
+C:\Users\can.cetin\OneDrive - Logo\Masaüstü\pratikler\try_catch_finally_ve_mantiksal_hatalar\obj\Debug\net6.0\try_catch_finally_ve_mantiksal_hatalar.csproj.CoreCompileInputs.cache
+C:\Users\can.cetin\OneDrive - Logo\Masaüstü\pratikler\try_catch_finally_ve_mantiksal_hatalar\obj\Debug\net6.0\try_catch_finally_ve_mantiksal_hatalar.dll
+C:\Users\can.cetin\OneDrive - Logo\Masaüstü\pratikler\try_catch_finally_ve_mantiksal_hatalar\obj\Debug\net6.0\refint\try_catch_finally_ve_mantiksal_hatalar.dll
+C:\Users\can.cetin\OneDrive - Logo\Masaüstü\pratikler\try_catch_finally_ve_mantiksal_hatalar\obj\Debug\net6.0\try_catch_finally_ve_mantiksal_hatalar.pdb
+C:\Users\can.cetin\OneDrive - Logo\Masaüstü\pratikler\try_catch_finally_ve_mantiksal_hatalar\obj\Debug\net6.0\try_catch_finally_ve_mantiksal_hatalar.genruntimeconfig.cache
+C:\Users\can.cetin\OneDrive - Logo\Masaüstü\pratikler\try_catch_finally_ve_mantiksal_hatalar\obj\Debug\net6.0\ref\try_catch_finally_ve_mantiksal_hatalar.dll
