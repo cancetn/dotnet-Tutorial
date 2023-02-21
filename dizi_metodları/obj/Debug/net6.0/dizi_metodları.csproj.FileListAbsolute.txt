@@ -1,0 +1,15 @@
+C:\Users\can.cetin\OneDrive - Logo\Masaüstü\pratikler\dizi_metodları\bin\Debug\net6.0\dizi_metodları.exe
+C:\Users\can.cetin\OneDrive - Logo\Masaüstü\pratikler\dizi_metodları\bin\Debug\net6.0\dizi_metodları.deps.json
+C:\Users\can.cetin\OneDrive - Logo\Masaüstü\pratikler\dizi_metodları\bin\Debug\net6.0\dizi_metodları.runtimeconfig.json
+C:\Users\can.cetin\OneDrive - Logo\Masaüstü\pratikler\dizi_metodları\bin\Debug\net6.0\dizi_metodları.dll
+C:\Users\can.cetin\OneDrive - Logo\Masaüstü\pratikler\dizi_metodları\bin\Debug\net6.0\dizi_metodları.pdb
+C:\Users\can.cetin\OneDrive - Logo\Masaüstü\pratikler\dizi_metodları\obj\Debug\net6.0\dizi_metodları.csproj.AssemblyReference.cache
+C:\Users\can.cetin\OneDrive - Logo\Masaüstü\pratikler\dizi_metodları\obj\Debug\net6.0\dizi_metodları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\can.cetin\OneDrive - Logo\Masaüstü\pratikler\dizi_metodları\obj\Debug\net6.0\dizi_metodları.AssemblyInfoInputs.cache
+C:\Users\can.cetin\OneDrive - Logo\Masaüstü\pratikler\dizi_metodları\obj\Debug\net6.0\dizi_metodları.AssemblyInfo.cs
+C:\Users\can.cetin\OneDrive - Logo\Masaüstü\pratikler\dizi_metodları\obj\Debug\net6.0\dizi_metodları.csproj.CoreCompileInputs.cache
+C:\Users\can.cetin\OneDrive - Logo\Masaüstü\pratikler\dizi_metodları\obj\Debug\net6.0\dizi_metodları.dll
+C:\Users\can.cetin\OneDrive - Logo\Masaüstü\pratikler\dizi_metodları\obj\Debug\net6.0\refint\dizi_metodları.dll
+C:\Users\can.cetin\OneDrive - Logo\Masaüstü\pratikler\dizi_metodları\obj\Debug\net6.0\dizi_metodları.pdb
+C:\Users\can.cetin\OneDrive - Logo\Masaüstü\pratikler\dizi_metodları\obj\Debug\net6.0\dizi_metodları.genruntimeconfig.cache
+C:\Users\can.cetin\OneDrive - Logo\Masaüstü\pratikler\dizi_metodları\obj\Debug\net6.0\ref\dizi_metodları.dll
